@@ -1,0 +1,50 @@
+body{
+  text-align: center;
+}
+
+h1{
+  font-family: Helventica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+.top{
+  background-image: url(images/backg.png)
+}
+.menue{
+  font-size: 18px;
+  font-family: Helventica,sans-serif;
+  color: white;
+}
+h2{
+  font-family: Helvetica,sans-serif;
+  font-size: 32px;
+  font-weight: bold;
+
+}
+h3{
+  font-family: Helvetica,sans-serif;
+  font-size: 23px;
+  font-weight: bold;
+}
+p{
+  font-family: Helvetica,sans-serif;
+  font-size: 14px;
+}
+.des{
+  font-family: Helvetica,sans-serif;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url(images/backg.png);
+}
+.footer{
+  text-align: left;
+  background-color: dimgray;
+  font-size: 11px;
+  color: white;
+}
+.nb{
+  font-size: 18px;
+  color: white;
+}
